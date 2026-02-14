@@ -1,16 +1,24 @@
-## Hi there 👋
+ Hi, I'm Olivia 👋
+🎓 Computer Engineering Student  
+💻 Learning Python & Building Intelligent Systems  
+🚀 Future Tech Founder in Progress  
 
-<!--
-**Oli-via123/Oli-via123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 About Me
+I am passionate about AI, Robotics, Cybersecurity, and Intelligent Systems.  
+I focus on building practical projects that create real-world impact.
 
-Here are some ideas to get you started:
+Impact first. Innovation always.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠 Currently Working On
+- Python Programming
+- Data Structures & Algorithms
+- Git & GitHub
+- Foundations of Artificial Intelligence
+
+🎯 2026 Goals
+- Build and publish multiple Python projects
+- Develop an AI-based sports analytics project
+- Strengthen my software engineering skills
+- Apply for international tech opportunities
+Thanks for visiting my profile 🚀
